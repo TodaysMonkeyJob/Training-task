@@ -1,0 +1,10 @@
+Knowledge graph
+Quite a lot of information there! We have text, tons of hyperlinks, and even an audio clip. That’s a lot of relevant
+and potentially useful information on a single page. The possibilities of putting this into a use case are endless.
+However, there is a slight problem. This is not an ideal source of data to feed to our machines. Not in its current
+form anyway. Can we find a way to make this text data readable for machines? Essentially, can we transform this text
+data into something that can be used by the machines and also can be interpreted easily by us? Yes, we can! We can do
+it with the help of Knowledge Graphs (KG), one of the most fascinating concepts in data science. I have been blown
+away by the sheer potential and applications of knowledge graphs and I am sure you will as well. In this article, you
+will learn what knowledge graphs are, why they’re useful, and then we’ll dive into code by building our own knowledge
+graph on Wikipedia data to discover structured information and relationaships.
