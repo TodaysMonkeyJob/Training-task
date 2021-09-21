@@ -19,7 +19,7 @@ if pgrep mjpg_streamer > /dev/null
 then
   echo "mjpg_streamer started"
 else
-  echo "could not start mjpg_streamer"
+  echo "couldn't start mjpg_streamer"
 fi
 }
 
